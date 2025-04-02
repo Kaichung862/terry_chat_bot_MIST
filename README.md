@@ -7,33 +7,33 @@ Many Terry College students struggle to find clubs that match their career goals
 # Solution
 This project includes:
 
-A centralized database of all Terry College organizations
+- A centralized database of all Terry College organizations
 
-A chatbot interface that asks users about:
+- A chatbot interface that asks users about:
 
-Career interests
+- Career interests
 
-Preferred meeting times
+- Preferred meeting times
 
-Membership process (e.g., interviews)
+- Membership process (e.g., interviews)
 
-MISTERS credit requirements
+- MISTERS credit requirements
 
-Personalized recommendations based on user input
+- Personalized recommendations based on user input
 
-🛠️ Technologies Used
-Java (JDK 17+ recommended)
+# Technologies Used
+- Java (JDK 17+ recommended)
 
-Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 
-File I/O and data filtering
+- File I/O and data filtering
 
-[Optional] JavaFX or Swing for GUI (if applicable)
+- [Optional] JavaFX or Swing for GUI (if applicable)
 
-🚀 How to Run
-Clone the repository or download the .java and .class files.
+# How to Run
+- Clone the repository or download the .java and .class files.
 
-Compile (if source code is available):
+- Compile (if source code is available):
 
 bash
 Copy
@@ -47,44 +47,48 @@ Edit
 java Main
 If your main file has a different name, replace Main with the correct class name.
 
-📋 Data Structure
+# Data Structure
 The backend reads from a database (e.g., CSV, JSON, or flat file) that contains:
 
-Club Name
+- Club Name
 
-Description
+- Description
 
-Meeting Times
+- Meeting Times
 
-Career Paths
+- Career Paths
 
-Membership Process
+- Membership Process
 
-Major Requirements
+- Major Requirements
 
-MISTERS Credit Eligibility
+- MISTERS Credit Eligibility
 
-Contact Info
+- Contact Info
 
-📦 Folder Structure
+# Folder Structure
 bash
 Copy
 Edit
 /src
   ├── Club.java
+  
   ├── ClubLoader.java
+  
   ├── ChatBot.java
+  
   └── Main.java
 /data
+
   └── clubs.csv
 Note: Folder structure may vary based on your setup.
 
-🙌 Future Plans
+# Future Plans
 Integration into UGA's eLC platform
 
 Enhanced GUI or web-based frontend
 
 Support for real-time Q&A about club deadlines and requirements
 
-📄 License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
