@@ -1,4 +1,4 @@
-TerryChatBot
+- TerryChatBot
 TerryChatBot is a Java-based chatbot designed to help students at the Terry College of Business easily discover student organizations that align with their interests, schedules, and goals. By centralizing club information and offering a conversational interface, this tool reduces the time and effort required to find the right organization—and helps students avoid missing important deadlines.
 
 📌 Problem Statement
