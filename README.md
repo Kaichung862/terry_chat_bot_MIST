@@ -36,15 +36,25 @@ This project includes:
 - Compile (if source code is available):
 
 bash
+
 Copy
+
 Edit
+
 javac ClubLoader.java Main.java
+
 Run the main class:
 
+
 bash
+
 Copy
+
 Edit
+
 java Main
+
+
 If your main file has a different name, replace Main with the correct class name.
 
 # Data Structure
@@ -67,10 +77,15 @@ The backend reads from a database (e.g., CSV, JSON, or flat file) that contains:
 - Contact Info
 
 # Folder Structure
+
 bash
+
 Copy
+
 Edit
+
 /src
+
   ├── Club.java
   
   ├── ClubLoader.java
@@ -81,6 +96,7 @@ Edit
 /data
 
   └── clubs.csv
+  
 Note: Folder structure may vary based on your setup.
 
 # Future Plans
